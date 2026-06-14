@@ -1,6 +1,6 @@
 # Hackathons
 
-This repository gathers every hackathon I've taken part in — each card links to its dedicated repo below.
+This repository gathers every hackathon I've taken part in, each card links to its dedicated repo below.
 
 <br>
 
